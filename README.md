@@ -27,7 +27,7 @@ The user interface is simple and built using HTML, CSS, and Bootstrap CSS.
 ### Setup Instructions
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/facial-recognition-attendance-system.git
+    git clone https://github.com/ShivanshTiwari01/facial-recognition-attendance-system.git
     cd facial-recognition-attendance-system
     ```
 
@@ -47,7 +47,7 @@ The user interface is simple and built using HTML, CSS, and Bootstrap CSS.
 
 5. **Run the Flask application**
     ```bash
-    python app.py
+    python server.py
     ```
 
 6. **Access the application**
