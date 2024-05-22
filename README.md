@@ -1,4 +1,4 @@
-# Facial Recognition-Based Attendance System
+# Facial Recognition based Attendance System
 
 This project is a facial recognition-based attendance system built using Flask, OpenCV, and machine learning. The system captures faces through a webcam, identifies them using a pre-trained model, and logs attendance data. 
 The user interface is simple and built using HTML, CSS, and Bootstrap CSS.
